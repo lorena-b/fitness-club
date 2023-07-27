@@ -1,0 +1,25 @@
+input {
+    width: 40%;
+    height: 30px;
+    border: 1px solid;
+    margin: 5px 10px;
+    font-size: 1.2rem;
+    
+}
+
+button {
+    background: #1976d2;
+    width: 40%;
+    height: 30px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: large;
+}
+
+div {
+    display: 'flex';
+    align-items: 'center';
+    justify-content: 'center';
+    height: '100vh'
+}
