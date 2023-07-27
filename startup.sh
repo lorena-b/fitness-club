@@ -1,7 +1,7 @@
 #!/bin/sh
 cd client
 npm install
-cd ../PB/TFC
+cd ../server/TFC
 python3 -m venv venv
 source venv/bin/activate
 python3 -m install -r requirements.txt -e venv
